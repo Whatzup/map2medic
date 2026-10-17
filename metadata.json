@@ -1,0 +1,8 @@
+{
+  "name": "Remix Map2Medic - Healthcare Services \u0026 Booking working Platform",
+  "description": "On-demand healthcare services platform connecting patients, verified medical providers, and clinics for home visits and specialized care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
